@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif
+}
+
+#container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+
+/* #####################################
+############# CABEÇALHO ################
+###################################### */
+#nav-bar{
+ background-color: #4b4a4a;
+ padding: 20px;
+ border-bottom: rgb(255, 166, 0) 7px solid;
+}
+
+.nav-title{
+    color: white;
+    text-align: center;
+}
+
+
+/* #####################################
+############### CORPO ##################
+###################################### */
+
+.container-header{
+    border-bottom: 1px rgb(196, 194, 194) solid;
+}
+
+.container-header h1{
+    font-size: 46px;
+    padding: 30px 0;
+}
+
+.container-header h3{
+    color: rgb(170, 170, 170);
+    font-size: 19px;
+    padding-bottom: 20px;
+}
+
+.container-header p{
+    color: rgb(170, 170, 170);
+    font-size: 9px;
+}
+
+
+.rede-socias img{
+    padding: 30px 20px 30px 0px;
+}
+
+
+.conteinaer-content{
+    width: 720px;
+    padding-top: 30px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.conteinaer-content h3{
+    color: black;
+    text-align: left;
+    padding: 15px;
+    font-size: 30px;;
+}
+
+.conteinaer-content h4{
+    color: rgb(255, 166, 0);
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+.conteinaer-content a{
+    text-decoration:none;
+    color: rgb(170, 170, 170);
+    
+}
+
+.conteinaer-content a:active{
+    color: black
+    
+}
+
+.conteinaer-content p{
+    color: rgb(170, 170, 170);
+    font-size: 20px;
+    padding-bottom: 30px;
+    text-align:left
+}
+
+.conteinaer-content img{
+    width: 720px;
+    padding-bottom: 20px;   
+}
+
+.conteinaer-content figcaption{
+    color: rgb(170, 170, 170);
+    font-size: 11px;
+    text-align: left;
+    padding-bottom: 30px;   
+}
+
+/* #####################################
+############### RODAPE ##################
+###################################### */
+
+
+#footer{
+    background-color: #4b4a4a;
+    padding: 30px;
+}
+
+.footer-rights{
+    color: white;
+    text-align: center;
+    font-size: 11px;
+}
+
+
